@@ -20,6 +20,10 @@
   margin-top: 200px;
 }
 
+button {
+    overflow: visible;
+}
+
 .entry-button-hover {
   background-color: purple;
 }
